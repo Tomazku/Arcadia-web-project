@@ -7,17 +7,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Zoo Arcadia</h1>
-        <nav>
-            <ul>
-                <li><a href="#habitats">Habitats</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#reviews">Avis</a></li>
-                <!-- Ajouter d'autres liens de navigation au besoin -->
-            </ul>
-        </nav>
-    </header>
+<?php include 'assets/header.php'; ?>
+
     <main>
         <section id="habitats">
             <h2>Habitats</h2>
